@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+.mainHeading{
+    font-size: 100;
+    text-align: center;
+    color: azure;
+   /*text-shadow: 3px 0 palevioletred;*/
+}
+.dice{
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 80px;
+    font-size: 36;
+}
+#refresh{
+    font-size: 36;
+    background-color: green;
+
+}
+.plyr1{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+.plyr2{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
